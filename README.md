@@ -1,4 +1,4 @@
-##Mobx + React
+### Mobx + React
 
 In the project directory, you can run:
 
